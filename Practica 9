@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title> Practica 9</title>
+</head>
+<body bgcolor="#D3D3D3">
+<h1 aling="CENTER"> Encabezado <h1>
+<ul>
+<li>
+<a href="Contacto.html">Contacto</a>
+</li>
+<p style="color:blue;" style="font-family:courier;" style="font-size:160%;">Parrafo 1</p></ul>
+</body>
+</html>
